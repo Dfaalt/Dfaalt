@@ -1,7 +1,7 @@
 # IlhamMaulana
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Ilham Maulana**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
