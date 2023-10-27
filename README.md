@@ -1,11 +1,11 @@
 # IlhamMaulana
 # Halo semua! 
 
-Perkenalkan nama saya **Ilham Maulana**.
+Allow me to introduce myself, my name is **Ilham Maulana**.
 
-Saya cohort **Bangkit Bacth 2 2023** di [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing).
+I'm a cohort in **Bangkit Bacth 2 2023** di [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ilham-maulana1101)ku ya.
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ilham-maulana1101)account.
 
 <p align="left">
 <a href="https://github.com/Dfaalt">
