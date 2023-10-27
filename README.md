@@ -1,9 +1,9 @@
 # IlhamMaulana
 # Halo semua! 
 
-Perkenalkan nama saya **Ilham Maulana**.\
+Perkenalkan nama saya **Ilham Maulana**.
 
-Saya cohort **Bangkit 2023** di [Bangkit Academy]([https://www.dicoding.com/](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing)).\
+Saya cohort **Bangkit 2023** di [BangkitAcademy]([https://www.dicoding.com/](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing)).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ilham-maulana1101)ku ya.
 
