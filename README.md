@@ -1,5 +1,5 @@
 # Ilham Maulana
-# Halo semua! 
+# Hallo Everyone! 
 
 Allow me to introduce myself, my name is **Ilham Maulana**.
 
