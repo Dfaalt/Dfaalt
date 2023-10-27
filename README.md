@@ -3,11 +3,7 @@
 
 Perkenalkan nama saya **Ilham Maulana**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-
-Saya bertanggung jawab pada kualitas materi Web Dev dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Saya cohort **Bangkit 2023** di [Bangkit Academy]([https://www.dicoding.com/](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing)).\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ilham-maulana1101)ku ya.
 
