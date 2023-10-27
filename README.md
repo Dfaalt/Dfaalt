@@ -3,7 +3,7 @@
 
 Allow me to introduce myself, my name is **Ilham Maulana**.
 
-I'm a cohort in **Bangkit Bacth 2 2023** di [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing).
+I'm a cohort **Bangkit Bacth 2 in 2023** di [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing).
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ilham-maulana1101)account.
 
